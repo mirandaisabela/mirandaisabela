@@ -7,7 +7,7 @@
 ## 🌟 Sobre mim
 - 📚 Estudante de **Engenharia de Software**
 - 💻 Foco em **desenvolvimento web** (frontend e backend)
-- 🎬 Quando não estou programando, estou mergulhada no cinefilismo
+- 🎬 Quando não estou programando, estou mergulhada em cinema e audiovisual
 
 ---
 
@@ -18,12 +18,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-
----
 
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabela-miranda-3b2538324/)
