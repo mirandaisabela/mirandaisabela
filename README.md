@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Isabela Miranda
 
-<!--
-**mirandaisabela/mirandaisabela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Fullstack | 🚀 Explorando tecnologia e criatividade  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mim
+- 📚 Estudante de **Engenharia de Software**
+- 💻 Foco em **desenvolvimento web** (frontend e backend)
+- 🎬 Quando não estou programando, estou mergulhada no cinefilismo
+
+---
+
+## 🚀 Tecnologias que utilizo
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,java,spring" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabela-miranda-3b2538324/)
+- 📧 Email: **mirandaisabela821@gmail.com**
