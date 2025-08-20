@@ -1,8 +1,8 @@
-<!-- 🎬 Poster Cinematográfico -->
-<h1 align="center">🍿✨ Entre linhas de código e linhas de roteiro ✨🎥</h1>
+<!-- 🎬 Abertura estilo cinema -->
+<h1 align="center">🎥 Bem-vindo ao meu GitHub 🎞️</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=80&section=header&text=🎬%20Bem-vindo%20ao%20meu%20GitHub%20🎞️&fontColor=ffffff&fontSize=25&fontAlignY=55&animation=fadeIn" />
+  <em>"Entre linhas de código e linhas de roteiro."</em>
 </p>
 
 ---
@@ -14,17 +14,18 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo  
+## 🚀 Tecnologias que utilizo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,java,spring&theme=dark" />
 </p>
 
 ---
 
-<!-- 🎞️ Efeito película -->
+<!-- 🎞️ Cobrinha estilo cinema -->
 <p align="center">
-  <img src="https://media.tenor.com/2f0n1l8i9mQAAAAC/film-movie.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/master/output/github-contribution-grid-snake.svg?color=FFD700&bg=000000" alt="Cobrinha estilo cinema" />
 </p>
+<p align="center"><em>Cobrinha inspirada em película de cinema: dourado e fundo preto.</em></p>
 
 ---
 
@@ -40,7 +41,6 @@
 
 ---
 
-<!-- 🎬 Créditos finais estilo filme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8B0000&height=120&section=footer&text=✨%20Obrigada%20por%20assistir%20até%20aqui%20✨&fontColor=ffffff&fontSize=20&animation=twinkling" />
+  🎬✨ Obrigada por assistir até aqui — o próximo ato começa com <strong>código</strong>.  
 </p>
