@@ -1,10 +1,6 @@
 <!-- 🎬 Abertura estilo cinema -->
 <h1 align="center">🎥 Bem-vindo(a) ao meu GitHub 🎞️</h1>
 
-<p align="center">
-  <em>"Entre linhas de código e linhas de roteiro."</em>
-</p>
-
 ---
 
 ## 🌟 Sobre mim  
