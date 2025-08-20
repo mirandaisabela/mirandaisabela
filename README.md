@@ -1,5 +1,5 @@
 <!-- 🎬 Abertura estilo cinema -->
-<h1 align="center">🎥 Bem-vindo ao meu GitHub 🎞️</h1>
+<h1 align="center">🎥 Bem-vindo(a) ao meu GitHub 🎞️</h1>
 
 <p align="center">
   <em>"Entre linhas de código e linhas de roteiro."</em>
@@ -21,11 +21,10 @@
 
 ---
 
-<!-- 🎞️ Cobrinha estilo cinema -->
+<!-- 🎞️ Estilo película de cinema -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/master/output/github-contribution-grid-snake.svg?color=FFD700&bg=000000" alt="Cobrinha estilo cinema" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-<p align="center"><em>Cobrinha inspirada em película de cinema: dourado e fundo preto.</em></p>
 
 ---
 
