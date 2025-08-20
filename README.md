@@ -1,4 +1,4 @@
-<!-- 🎬 Abertura estilo cinema -->
+
 <h1 align="center">🎥 Bem-vindo(a) ao meu GitHub 🎞️</h1>
 
 ---
@@ -14,7 +14,7 @@
 
 ### 💻 Linguagens de programação / marcação
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,nodejs&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks / Banco de dados
@@ -24,7 +24,7 @@
 
 ---
 
-<!-- 🎞️ Estilo película de cinema -->
+
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
