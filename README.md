@@ -14,7 +14,7 @@
 
 ### 💻 Linguagens de programação / marcação
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks / Banco de dados
