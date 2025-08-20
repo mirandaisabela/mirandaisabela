@@ -11,8 +11,15 @@
 ---
 
 ## 🚀 Tecnologias que utilizo
+
+### 💻 Linguagens de programação / marcação
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,java,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" />
+</p>
+
+### ⚙️ Frameworks / Banco de dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,tailwind,mysql&theme=dark" />
 </p>
 
 ---
