@@ -1,8 +1,8 @@
-<!-- 🎬 Abertura estilo cinema -->
-<h1 align="center">🎥 Bem-vindo ao meu GitHub 🎞️</h1>
+<!-- 🎬 Poster Cinematográfico -->
+<h1 align="center">🍿✨ Entre linhas de código e linhas de roteiro ✨🎥</h1>
 
 <p align="center">
-  <em>"As linhas de código são como roteiros, e cada projeto é um novo filme em produção."</em>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=80&section=header&text=🎬%20Bem-vindo%20ao%20meu%20GitHub%20🎞️&fontColor=ffffff&fontSize=25&fontAlignY=55&animation=fadeIn" />
 </p>
 
 ---
@@ -14,16 +14,16 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que utilizo  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,java,spring&theme=dark" />
 </p>
 
 ---
 
-<!-- 🎞️ Estilo película de cinema -->
+<!-- 🎞️ Efeito película -->
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.tenor.com/2f0n1l8i9mQAAAAC/film-movie.gif" width="600"/>
 </p>
 
 ---
@@ -40,6 +40,7 @@
 
 ---
 
+<!-- 🎬 Créditos finais estilo filme -->
 <p align="center">
-  🎬✨ Obrigada por assistir até aqui — o próximo ato começa com <strong>código</strong>.  
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=8B0000&height=120&section=footer&text=✨%20Obrigada%20por%20assistir%20até%20aqui%20✨&fontColor=ffffff&fontSize=20&animation=twinkling" />
 </p>
