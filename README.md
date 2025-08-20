@@ -14,16 +14,15 @@
 
 ### 💻 Linguagens de programação / marcação
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks / Banco de dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,angular,react,tailwind,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,tailwind,mysql,nodejs&theme=dark" />
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
