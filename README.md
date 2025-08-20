@@ -1,16 +1,16 @@
-<!-- Banner animado ou destaque -->
-<h1 align="center">👋 Olá, eu sou a <span style="color:#ff6b6b;">Isabela Miranda</span></h1>
+<!-- 🎬 Abertura estilo cinema -->
+<h1 align="center">🎥 Bem-vindo ao meu GitHub 🎞️</h1>
 
 <p align="center">
-  💻 <strong>Desenvolvedora Fullstack</strong> | 🚀 <em>Explorando tecnologia e criatividade</em>
+  <em>"As linhas de código são como roteiros, e cada projeto é um novo filme em produção."</em>
 </p>
 
 ---
 
 ## 🌟 Sobre mim  
-✨ Estudante de **Engenharia de Software**  
-💻 Foco em **desenvolvimento web** (frontend e backend)  
-🎬 Quando não estou programando, estou mergulhada em **cinema e audiovisual**  
+- 📚 Estudante de **Engenharia de Software**  
+- 💻 Foco em **desenvolvimento web** (frontend e backend)  
+- 🎬 Quando não estou programando, estou mergulhada em **cinema e audiovisual**  
 
 ---
 
@@ -21,15 +21,14 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- 🎞️ Estilo película de cinema -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabela-miranda&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-miranda&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Onde me encontrar  
 <p align="center">
   <a href="https://www.linkedin.com/in/isabela-miranda-3b2538324/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,5 +41,5 @@
 ---
 
 <p align="center">
-  ✨ “Transformando ideias em código e criatividade em inovação.” ✨
+  🎬✨ Obrigada por assistir até aqui — o próximo ato começa com <strong>código</strong>.  
 </p>
