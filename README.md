@@ -1,4 +1,3 @@
-
 <h1 align="center">🎥 Bem-vindo(a) ao meu GitHub 🎞️</h1>
 
 ---
@@ -10,16 +9,8 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
-
-### 💻 Linguagens de programação / marcação
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python&theme=dark" />
-</p>
-
-### ⚙️ Frameworks / Banco de dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,angular,react,tailwind,mysql,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,react,html,css&theme=dark" />
 </p>
 
 ---
@@ -36,12 +27,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mirandaisabela821@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  🎬✨ Obrigada por assistir até aqui — o próximo ato começa com <strong>código</strong>.  
-</p>
