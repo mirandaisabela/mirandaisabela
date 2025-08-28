@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,react,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,html,css&theme=dark" />
 </p>
 
 ---
@@ -27,3 +27,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mirandaisabela821@gmail.com">
+
